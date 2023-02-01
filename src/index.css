@@ -1,0 +1,16 @@
+.card-group {
+    display: grid;
+    width: 100%;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 1em;
+    align-items: baseline;
+}
+.padding-nav{
+    padding: 5px 15px 0 15px;
+}
+
+@media (max-width: 600px) {
+    .card-group {
+        grid-template-columns: 1fr;
+    }
+}

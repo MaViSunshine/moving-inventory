@@ -1,0 +1,27 @@
+[
+    {
+        "id": 0,
+        "name": "First box: Living Room",
+        "description": "6 pillows (2 pink, 2 floral, 2 gray)"
+    },
+    {
+        "id": 1,
+        "name": "Second Box: Bedroom 1",
+        "description": "Books and study materials"
+    },
+    {
+        "id": 2,
+        "name": "Second Box: Bedroom 2",
+        "description": "Sweaters and Jeans"
+    },
+    {
+        "id": 3,
+        "name": "First Box: Bathroom",
+        "description": "Towels and others"
+    },
+    {
+        "id": 5,
+        "name": "Third Box: Kitchen",
+        "description": "Pans and Pots"
+    }
+]
